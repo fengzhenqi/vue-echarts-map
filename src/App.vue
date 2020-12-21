@@ -1,8 +1,8 @@
 <template>
   <div id="app">
     <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
+      <router-link to="/">自定义合并区县</router-link> |
+      <router-link to="/about">正常map展示</router-link>
     </div>
     <router-view/>
   </div>
