@@ -2,7 +2,8 @@
   <div id="app">
     <div id="nav">
       <router-link to="/">自定义合并区县</router-link> |
-      <router-link to="/about">正常map展示</router-link>
+      <router-link to="/about">正常map展示</router-link> |
+      <router-link to="/check">仅展示指定区域</router-link>
     </div>
     <router-view/>
   </div>
